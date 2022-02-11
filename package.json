@@ -65,7 +65,7 @@
     "jest": "^24.9.0",
     "kleur": "^3.0.3",
     "markdown-builder": "^0.9.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "prettier": "^1.18.2",
     "prismjs": "^1.16.0",
     "prop-types": "^15.7.2",
