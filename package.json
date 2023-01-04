@@ -77,6 +77,6 @@
     "redux": "^4.0.4",
     "rollup": "^0.58.2",
     "rollup-plugin-babel": "^4.0.3",
-    "rollup-plugin-babel-minify": "^4.0.0"
+    "rollup-plugin-babel-minify": "^10.0.0"
   }
 }
